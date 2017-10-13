@@ -1,0 +1,17 @@
+# config dirs
+conf/
+defaults/
+
+# java class files
+*.class
+
+# gradle files
+.gradle/
+build/
+
+# android ignore
+*.apk
+*.ap_
+
+# dalvik VM files
+*.dex
