@@ -4,10 +4,4 @@
   <useSecurity>true</useSecurity>
   <binary>true</binary>
   <logenbled>true</logenabled>
-<<<<<<< HEAD
-  <!-- HOTFIX -->
-=======
-<!-- fix21 version -->
-<!-- hot fix -->
->>>>>>> fix21
 </hudson>
