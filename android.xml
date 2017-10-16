@@ -4,4 +4,5 @@
   <useSecurity>true</useSecurity>
   <binary>true</binary>
   <logenbled>true</logenabled>
+  <!-- HOTFIX -->
 </hudson>
